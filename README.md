@@ -8,3 +8,6 @@
  + 교재 목차 소개
  + 교재 내부 raw data
  + Ipynb파일로 소스 공유
+
+> Script ipynb
+ + Python Script 내용 시각화
