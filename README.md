@@ -1,8 +1,9 @@
 ## Python 교재
 * 파이썬을 활용한 금융 분석
-<img src="http://www.hanbit.co.kr/data/books/B4965740442_l.jpg" width="500px" height="300px">
+<img src="http://www.hanbit.co.kr/data/books/B4965740442_l.jpg" width="300px" height="450px">
+
 * 파이썬 라이브러리를 활용한 데이터 분석
-<img src="https://t1.daumcdn.net/cfile/tistory/2130DA4756570A161F" width="500px" height="300px">
+<img src="https://t1.daumcdn.net/cfile/tistory/2130DA4756570A161F" width="300px" height="450px">
 
 ### repository 하위 폴더 소개
 > Python Script
